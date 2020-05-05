@@ -1,0 +1,10 @@
+Aerodactyl  
+Bulbasaur  
+Charmander 
+Dratini  
+Fearow  
+Meowth  
+Pikachu  
+Psyduck  
+Spearow  
+Squirtle
