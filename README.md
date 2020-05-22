@@ -4,10 +4,15 @@
 
 - User can capture or upload image of pokemons and model will give probabilities of each pokemon.
 
+<br/>
 
 ## Screenshots of application - 
- 
-<img src="https://github.com/ShashankSinha98/Pokemon-Classification-using-Mobilenet-V2-Firebase/blob/master/images/pikachu.jpeg" width="200">   <img src="https://github.com/ShashankSinha98/Pokemon-Classification-using-Mobilenet-V2-Firebase/blob/master/images/psyduck.jpeg" width="200">   <img src="https://github.com/ShashankSinha98/Pokemon-Classification-using-Mobilenet-V2-Firebase/blob/master/images/squirtle.jpeg" width="200">
+
+| 1. Pikachu                                 | 2. Psyduck                                 | 3. Squirtle                                 |
+|--------------------------------------------|--------------------------------------------|---------------------------------------------|
+|<img src="images/pikachu.jpeg" width="200"> |<img src="images/psyduck.jpeg" width="200"> |<img src="images/squirtle.jpeg" width="200">|
+
+<br/>
 
 ### Pokemon Classes - 
 - Aerodactyl  
